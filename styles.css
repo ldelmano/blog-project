@@ -1,1 +1,19 @@
 /* Aqui vão os estilos do site */
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+}
+
+.home-title {
+  font-size: 48px;
+  font-weight: 800;
+  letter-spacing: -2.5px;
+  color: #ffffff;
+  background-color: #000000;
+}
+
+.post-card {
+}
