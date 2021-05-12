@@ -11,9 +11,21 @@ p {
   font-size: 48px;
   font-weight: 800;
   letter-spacing: -2.5px;
-  color: #ffffff;
-  background-color: #000000;
+  color: #000000;
+  position: relative;
 }
 
 .post-card {
+}
+
+.big-section-img {
+  width: 100%;
+  position: absolute;
+}
+
+.big-section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 600px;
 }
